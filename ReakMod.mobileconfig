@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>IsRemovable</key>
+            <true/>
+            <key>Label</key>
+            <string>Reak Mod</string>
+            <key>PayloadIdentifier</key>
+            <string>com.reakmod.webclip</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>c8b6b19a-1111-4222-8333-e99999999999</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>URL</key>
+            <string>data:text/html;charset=utf-8;base64,PCFET0NUWVBFIGh0bWw+PGh0bWw+PGhlYWQ+PG1ldGEgbmFtZT0ndmlld3BvcnQnIGNvbnRlbnQ9J3dpZHRoPWRldmljZS13aWR0aCwgaW5pdGlhbC1zY2FsZT0xLjAnPjxzdHlsZT5ib2R5e2JhY2tncm91bmQ6IzEyMTIxMjtjb2xvcjojZmZmO2ZvbnQtZmFtaWx5OkFyaWFsO2Rpc3BsYXk6ZmxleDtqdXN0aWZ5LWNvbnRlbnQ6Y2VudGVyO2FsaWduLWl0ZW1zOmNlbnRlcjtoZWlnaHQ6MTAwdmg7bWFyZ2luOjA7fS5ib3h7YmFja2dyb3VuZDojMWUxZTFlO3BhZGRpbmc6MjVweDtib3JkZXItcmFkaXVzOjEycHg7dGV4dC1hbGlnbjpjZW50ZXI7d2lkdGg6ODUlO21heC13aWR0aDozNTBweDtib3JkZXI6MXB4IHNvbGlkICNmZjAwMDA7c2hhZG93OjAgNHB4IDE1cHggcmdiYSgyNTUsMCwwLDAuNCk7fWhze2NvbG9yOiNmZjMzMzM7fWlucHV0e3dpZHRoOjkwJTtwYWRkaW5nOjEycHg7bWFyZ2luLWJvdHRvbToxNXB4O2JvcmRlcjoxcHggc29saWQgIzQ0NDtib3JkZXItcmFkaXVzOjZweDtiYWNrZ3JvdW5kOiMyYTJhMmE7Y29sb3I6I2ZmZjt0ZXh0LWFsaWduOmNlbnRlcjtmb250LXNpemU6MTZweDt9YnV0dG9ue3dpZHRoOjk1JTtwYWRkaW5nOjEycHg7YmFja2dyb3VuZDojZmYwMDAwO2JvcmRlcjpub25lO2JvcmRlcjotcmFkaXVzOjZweDtjb2xvcjojZmZmO2ZvbnQtc2l6ZToxNnB4O2ZvbnQtd2VpZ2h0OmJvbGQ7fTwvc3R5bGU+PC9oZWFkPjhib2R5PjxkaXYgY2xhc3M9J2JveCc+PGgzPlJlYWsgTW9kPC9oMz48cD4lMjBzdW9tJTIwYmFudGhvZW4lMjBLZXklMjBkZWltcGklMjB1c2U8L3A+PGlucHV0IHR5cGU9J3RleHQn idD0na2V5JyBwbGFjZWhvbGRlcj0nRW50ZXIgS2V5IEhlcmUuLi4nPjxidXR0b24gb25jbGljaz0nY2goKSc+VW5sb2NrIEFwcDwvYnV0dG9uPjxwIGlkPSdlcnInIHN0eWxlPSdjb2xvcjojZmY0ZDRkO2Rpc3BsYXk6bm9uZSc+WCBLZXkgbWluJTIwdHJlaW10cm91diE8L3A+PC9kaXY+PHNjcmlwdD5mdW5jdGlvbiBjaGsoKXt2YXIgaz1kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgna2V5JykudmFsdWU7aWYoaz09PSdDaHViIGJhbiBjaHViIHR2Jyl7YWxlcnQoJ0tleSB0cmVpbXRyb3V2IScpO3dpbmRvdy5sb2NhdGlvbi5ocmVmPSdodHRwczovL2dvb2dsZS5jb20nO31lbHNle2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdlcnInKS5zdHlsZS5kaXNwbGF5PSdibG9jayc7fX08L3NjcmlwdD48L2JvZHk+PC9odG1sPg==</string>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Reak Mod</string>
+    <key>PayloadIdentifier</key>
+    <string>com.reakmod.profile</string>
+    <key>PayloadOrganization</key>
+    <string>Chub ban chub tv</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>a7a5a089-0000-4111-8222-d88888888888</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
